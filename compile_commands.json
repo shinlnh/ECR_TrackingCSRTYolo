@@ -1,0 +1,74 @@
+[
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\TrackingPipeline.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\TrackingPipeline.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/TrackingPipeline.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/TrackingPipeline.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\RescueStrategy.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\RescueStrategy.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/RescueStrategy.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/RescueStrategy.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\CsrtTracker.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\CsrtTracker.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/CsrtTracker.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/CsrtTracker.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\Quality.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\Quality.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/Quality.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/Quality.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\BoxKalmanFilter.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\BoxKalmanFilter.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/BoxKalmanFilter.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/BoxKalmanFilter.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\NCNNSsdDetector.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\NCNNSsdDetector.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/NCNNSsdDetector.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/NCNNSsdDetector.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\StaticBoxDetector.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\StaticBoxDetector.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/StaticBoxDetector.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/StaticBoxDetector.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\TemplateMatcherDetector.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\TemplateMatcherDetector.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/TemplateMatcherDetector.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/TemplateMatcherDetector.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\OnnxSsdDetector.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\OnnxSsdDetector.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/OnnxSsdDetector.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/OnnxSsdDetector.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_pipeline.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_pipeline.dir\\src\\YoloV5Detector.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\YoloV5Detector.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/YoloV5Detector.cpp",
+  "output": "CMakeFiles/eldercare_pipeline.dir/src/YoloV5Detector.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_tracking.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_tracking.dir\\src\\main.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\main.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/main.cpp",
+  "output": "CMakeFiles/eldercare_tracking.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/SourceCode/C2P/Project/ECR_Tracking/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/eldercare_tracking_otb.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\eldercare_tracking_otb.dir\\src\\otb_evaluator.cpp.obj -c E:\\SourceCode\\C2P\\Project\\ECR_Tracking\\src\\otb_evaluator.cpp",
+  "file": "E:/SourceCode/C2P/Project/ECR_Tracking/src/otb_evaluator.cpp",
+  "output": "CMakeFiles/eldercare_tracking_otb.dir/src/otb_evaluator.cpp.obj"
+}
+]
